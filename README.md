@@ -24,6 +24,6 @@
 
 ```bash
 git clone https://github.com/abubakrmuminov/6-exam.git
-cd 6-10
+cd 6-exam
 npm install
 npm run dev
