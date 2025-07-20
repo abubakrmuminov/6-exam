@@ -23,7 +23,7 @@
 ## 📦 Установка и запуск
 
 ```bash
-git clone https://github.com/твой-проект.git
-cd твой-проект
+git clone https://github.com/abubakrmuminov/6-exam.git
+cd 6-10
 npm install
 npm run dev
