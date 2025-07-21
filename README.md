@@ -1,26 +1,26 @@
 # 🚗 Car Store App
 
-Добро пожаловать в **Car Store App** — мини-магазинчик машин с поддержкой языков, корзиной, и сочным Zustand'ом 🧠
+**Car Store App**'ga xush kelibsiz — tillar qo‘llab-quvvatlanadigan, savatli va shirin Zustand bilan mini mashinalar do‘koni 🧠
 
-## 🔥 Возможности
+## 🔥 Imkoniyatlar
 
-- 🌐 Переключение языков: uz / ru / en
-- 🚘 Получение списка машин с сервера
-- 🛒 Добавление/удаление из корзины
-- ✅ Увеличение/уменьшение количества товаров
-- 🧼 Очистка корзины
-- 📦 Подсчёт общей суммы и количества
-- 🪄 Уведомления через `react-hot-toast`
-- ⚙️ Состояние через **Zustand** — без боли и редюсеров
+- 🌐 Tillarni almashtirish: uz / ru / en
+- 🚘 Serverdan mashinalar ro‘yxatini olish
+- 🛒 Savatchaga qo‘shish/o‘chirish
+- ✅ Mahsulot miqdorini oshirish/kamaytirish
+- 🧼 Savatni tozalash
+- 📦 Umumiy summa va miqdorni hisoblash
+- 🪄 `react-hot-toast` orqali bildirishnomalar
+- ⚙️ **Zustand** orqali state boshqaruvi — og‘riqsiz va reducersiz
 
-## 🛠️ Стек технологий
+## 🛠️ Texnologiyalar steki
 
-- **React** — библиотека номер один
-- **Zustand** — легчайшее состояние
-- **Tailwind + ShadCN** — стили как в фигме
-- **react-hot-toast** — уведомления без лишних слов
+- **React** — №1 kutubxona
+- **Zustand** — eng yengil state manager
+- **Tailwind + ShadCN** — Figma’dagidek stillar
+- **react-hot-toast** — ortiqcha gaplarsiz bildirishnomalar
 
-## 📦 Установка и запуск
+## 📦 O‘rnatish va ishga tushurish
 
 ```bash
 git clone https://github.com/abubakrmuminov/6-exam.git
